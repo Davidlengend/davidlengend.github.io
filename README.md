@@ -1,6 +1,6 @@
 # davidlengend.github.io
 
-$实验步骤与内容：$
+实验步骤与内容：
 
 本次实验将基于 GitHub 搭建个人博客网站。
 
