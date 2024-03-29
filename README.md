@@ -8,12 +8,12 @@ $实验步骤与内容：$
 
     创建完成后显示头像及用户名。
 
-![alt text](image-1.png)
+
 
 二、创建个人仓库
 
     在账号创建完成后，在主页会出现如下界面：
 
-![alt text](image-2.png)
 
-![alt text](image.png)
+
+
