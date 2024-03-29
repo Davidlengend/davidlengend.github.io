@@ -14,6 +14,10 @@ $实验步骤与内容：$
 
     在账号创建完成后，在主页会出现如下界面：
 
+![alt text](image-1.png)
 
+![alt text](image-2.png)
+
+![alt text](image.png)
 
 
