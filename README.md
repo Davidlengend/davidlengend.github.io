@@ -1,1 +1,0 @@
-﻿# davidlengend.github.io
