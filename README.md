@@ -1,72 +1,98 @@
-# 自我介绍
+## Hi there, I'm Mingze Li 👋
 
-## 基本信息
+&gt; **I want something just like this.**
 
-| 项目      | 内容                        |
-| :-------- | :-------------------------- |
-| 姓名      | 李明泽/David                |
-| 学校/院系 | 大连海洋大学 · 信息工程学院 |
-| 专业      | 计算机科学与技术            |
-| 年级      | 硕士一年级                  |
-| 研究方向  | 密度估计                    |
-| 导师      | 吴俊峰                      |
-| 联系方式  | davidemail2003@163.com      |
 
 ---
 
-## 教育背景
+### ⚡ About Me
 
-- **2024.09 - 至今**　大连海洋大学，计算机科学与技术，硕士研究生
-- **2020.09 - 2024.06**　山东大学，计算机科学与技术，工学学士
-  - 主修课程：数据结构、计算机组成原理等
-  - 毕业设计：基于GPU的空间索引查询优化
+I am a first-year Master's student in computer science and technoledge at **Dalian Ocean University**, supervised by Junfeng Wu & Yizhi Zhou. 
 
----
+My current research interests include **[方向1]**, **[方向2]**, and **[方向3]**. 
+[可选：I am particularly passionate about / My recent focus is on [某个具体课题].]
 
-## 技能储备
-
-| 类别             | 具体内容                    |
-| :--------------- | :-------------------------- |
-| **编程语言**     | Python、C/C++               |
-| **深度学习框架** | PyTorch、TensorFlow（了解） |
-| **开发工具**     | Linux、Git、VS Code、trae等 |
-| **英语能力**     | CET-6，能流畅阅读英文文献   |
+[可选：I am actively looking for research collaborations / internship opportunities / PhD positions. Feel free to reach out!]
 
 ---
 
-## 当前状态
+### 🌱 Education
 
-### 正在进行的任务
-
--  修读硕士课程：机器学习、矩阵分析
--  阅读领域综述与经典论文，建立知识体系
--  实验室具体任务
-
----
-
-## 期望与目标
-
-### 硕士阶段目标
-
-| 时间节点 | 目标                                   |
-| :------- | :------------------------------------- |
-| 研一上   | 完成课程学习，确定具体研究课题         |
-| 研一下   | 完成课题探索，形成初步创新点，争取投稿 |
-| 研二     | 深入研究工作，完成硕士论文核心内容     |
-| 研三     | 完善论文，准备答辩，求职               |
+| Time | Degree | Institution | Major / Thesis |
+|:---|:---|:---|:---|
+| 2026.09 - expected | **M.Sc.** | Dalian Ocean University, Dalian | computer science and technoledge |
+| | | | Thesis: *GPU-Based* |
+| 2021.09 - 2025.06 | **B.Sc.** | Shandong University, Qingdao | computer science and technoledge |
 
 ---
 
-## 个人特点
+### 🔭 Research Interests
 
-- **优势**：有项目实践经验，具备数学基础，善于沟通协作
-- **待提升**：论文写作经验，学术视野
-
----
-
-&gt; **结语**：非常荣幸加入课题组大家庭，作为研究新人，我深知自己在学术积累和科研经验上还有很大不足。希望在未来的学习中，能够向各位老师和师兄师姐多多请教，与同学们交流进步，在密度估计领域踏实探索，做出有价值的工作。
+- **[方向1]**：[简要描述，如：Long-tailed Visual Recognition, Few-shot Learning]
+- **[方向2]**：[简要描述，如：AIGC Safety and Watermarking]
+- **[方向3]**：[可选，如：Multimedia Forensics]
 
 ---
 
-_最后更新：2026年9月_
-#
+### 📝 Publications
+
+*[按时间倒序排列，若无则删除此节或写 "Coming soon..."]*
+
+- 🎉**[会议/期刊缩写'年份]** **[论文标题]**. [作者列表，自己名字加粗] [paper] [code]
+
+  *e.g., 🎉[CVPR'25] **Advances in XXXXX**. **Your Name**, Co-author Name.*
+
+---
+
+### 💻 Projects
+
+*[开源项目或课程项目，可无代码链接]*
+
+- 🌟**[项目名称]**：[一句话描述]. [[code](链接)] [[demo](链接)]
+- 🌟**[项目名称]**：[一句话描述]. [[code](链接)]
+
+---
+
+### 🏢 Internships / Research Experience
+
+| Time | Institution / Lab | Position | Topic |
+|:---|:---|:---|:---|
+| 20XX.XX - 20XX.XX | [公司/实验室名称] | [职位，如：Research Intern] | [研究方向/项目内容] |
+| 20XX.XX - 20XX.XX | [学校实验室名称] | [职位，如：Research Assistant] | [研究方向] |
+
+---
+
+### 🛠️ Skills
+
+| Category | Details |
+|:---|:---|
+| **Languages** | Python (proficient), C/C++ (familiar), [其他] |
+| **Frameworks** | PyTorch (main), [TensorFlow / JAX / 其他] |
+| **Tools** | Linux, Git, Docker, [LaTeX / VS Code / 其他] |
+| **Languages** | Chinese (native), English (CET-6 [分数] / IELTS [分数]) |
+
+---
+
+### 🎖️ Honors & Awards
+
+- [年份] **[奖项名称]**，[颁发机构]
+- [年份] **[奖项名称]**，[颁发机构]
+- [可选：如奖学金、竞赛奖项等]
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [你的邮箱]
+- 🏠 Homepage: [个人主页/博客链接，可选]
+- 💼 LinkedIn: [链接，可选]
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=default)
+
+---
+
+*Last updated: 20XX年XX月*
