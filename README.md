@@ -9,10 +9,8 @@
 
 I am a first-year Master's student in computer science and technoledge at **Dalian Ocean University**, supervised by Junfeng Wu & Yizhi Zhou. 
 
-My current research interests include **[方向1]**, **[方向2]**, and **[方向3]**. 
-[可选：I am particularly passionate about / My recent focus is on [某个具体课题].]
+My current research interests include **Density estimation**, **[方向2]**, and **[方向3]**. 
 
-[可选：I am actively looking for research collaborations / internship opportunities / PhD positions. Feel free to reach out!]
 
 ---
 
@@ -27,9 +25,8 @@ My current research interests include **[方向1]**, **[方向2]**, and **[方�
 
 ### 🔭 Research Interests
 
-- **density estimation**：[简要描述，如：Long-tailed Visual Recognition, Few-shot Learning]
-- **[方向2]**：[简要描述，如：AIGC Safety and Watermarking]
-
+- **Density estimation**：Density estimation is a statistical technique used to figure out the underlying probability distribution of a dataset — in other words, to estimate what the data "looks like" when you only have a limited number of samples.
+- **Artificial intelligence**：Artificial intelligence (AI) is the field of building computer systems that can perform tasks that normally require human intelligence — such as understanding language, recognizing images, making decisions, and playing games.
 ---
 
 ### 📝 Publications
@@ -55,10 +52,10 @@ My current research interests include **[方向1]**, **[方向2]**, and **[方�
 
 | Category | Details |
 |:---|:---|
-| **Languages** | Python (proficient), C/C++ (familiar), [其他] |
-| **Frameworks** | PyTorch (main), [TensorFlow / JAX / 其他] |
-| **Tools** | Linux, Git, Docker, [LaTeX / VS Code / 其他] |
-| **Languages** | Chinese (native), English (CET-6 [分数] / IELTS [分数]) |
+| **Languages** | Python (proficient), C/C++ (familiar),  |
+| **Frameworks** | PyTorch (main), TensorFlow / JAX /  |
+| **Tools** | Linux, Git, Docker, LaTeX / VS Code /  |
+| **Languages** | Chinese (native), English (CET-6 469 / CET-4 541) |
 
 ---
 
@@ -81,4 +78,4 @@ My current research interests include **[方向1]**, **[方向2]**, and **[方�
 
 ---
 
-*Last updated: 20XX年XX月*
+*Last updated: September 2026*
