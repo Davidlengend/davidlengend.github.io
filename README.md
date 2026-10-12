@@ -33,7 +33,7 @@ My current research interests include **Density estimation**, **[方向2]**, and
 
 *Coming soon...*
 
-- 🎉**[会议/期刊缩写'年份]** **[论文标题]**. [作者列表，自己名字加粗] [paper] [code]
+- 🎉**[会议/期刊缩写'年份]** **[论文标题]**. [作者列表，本人名字加粗] [paper] [code]
 
   *e.g., 🎉[CVPR'25] **Advances in XXXXX**. **Your Name**, Co-author Name.*
 
@@ -74,7 +74,7 @@ My current research interests include **Density estimation**, **[方向2]**, and
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github.com/Davidlengend/davidlengend.github.io)
+![My GitHub stats](https://github.com/Davidlengend/davidlengend.github.io)
 
 ---
 
