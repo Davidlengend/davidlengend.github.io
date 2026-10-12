@@ -77,7 +77,7 @@ My current research interests include **[方向1]**, **[方向2]**, and **[方�
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=default)
+![Your GitHub stats](https://github.com/Davidlengend/davidlengend.github.io)
 
 ---
 
